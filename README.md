@@ -83,3 +83,6 @@ See [`docs/CONTRIBUTING.md`](./docs/CONTRIBUTING.md) on how to contribute to thi
 ## 📜 License
 
 MIT — Built by Techyjaunt alumni 💛
+---
+### Contributor Note
+Edited by **Shukurah**
